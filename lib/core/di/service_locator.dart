@@ -7,6 +7,7 @@ import '../../data/repositories/user_repository.dart';
 import '../../logic/cubits/auth_cubit/auth_cubit.dart';
 import '../../logic/cubits/product_cubit/product_cubit.dart';
 import '../../logic/cubits/product_cubit/product_detail_cubit.dart';
+
 import '../../logic/cubits/cart_cubit/cart_cubit.dart';
 
 import '../../logic/cubits/profile_cubit/profile_cubit.dart';
